@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="enter_game">Enter Game</string>
+    <string name="no_internet">Internet not available</string>
+    <string name="enter_room_id">Enter Room ID :</string>
+    <string name="room_id">Room ID</string>
+    <string name="or">OR</string>
+    <string name="create_new_room">Create New Room</string>
+    <string name="loading">Loading...</string>
+    <string name="auth_failed">Authentication failed.</string>
+    <string name="join_room">Join Existing Game</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_user_name">Enter Username :</string>
+    <string name="enter_username">Please enter username!</string>
+    <string name="please_enter_room_id">Please enter Room ID!</string>
+    <string name="share">Share</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="share_room_id">%1$s</string>
+    <string name="share_room_id_desc">Share this Room ID to invite others to join your game!</string>
+    <string name="send_to">Send Via</string>
+    <string name="room_id_share_desc">Enter this room ID to play TicTacToe with me \n %1$s</string>
+    <string name="no_room_found">No room available for ID!</string>
+    <string name="please_enter_required_fields">Please enter required fields!</string>
+    <string name="cancel">Cancel</string>
+    <string name="copy">Copy</string>
+    <string name="unknown_error">Unknown Error Occurred!</string>
+    <string name="user_left_game">%1$s left the game!</string>
+    <string name="start_new_game">Start A New Game</string>
+    <string name="winner_title">You are winner</string>
+    <string name="win_msg">Congrats! You have tried hard and won the game. Hurray!</string>
+    <string name="loose_title">You are looser</string>
+    <string name="loose_tmsg">Sorry! You tried well but loose the game. Sad!</string>
+    <string name="draw_message">Sorry! You both tried well but there aren\'t many moves remained. Game is considered to be drawn!</string>
+    <string name="draw_title">Game Draw</string>
+	   <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exit">exit_click</string>
+    <string name="about">about_click</string>
+    <string name="normal">normal_click</string>
+    <string name="ultimate">ultimate_click</string>
+    <string name="normalText">Normal mode</string>
+    <string name="ultimateText">Ultimate mode</string>
+    <string name="aboutText">About</string>
+    <string name="exitText">Exit</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_activity_label">Tic Tac Toe - About</string>
+    <string name="normal_activity_label">Tic Tac Toe - Normal Mode</string>
+    <string name="aboutInformation">Welcome to the Tic Tac Toe game!
+
+</string>
+    <string name="developerInfo">Developed by Dipal K. Bagadia
+        ID: dipal.bagadia@mobiuso.com
+        version: Beta Testing(v1.0.0)
+    </string>
+    <string name="title_activity_normal">NormalActivity</string>
+	<string name="x_move">X Move</string>
+	<string name="o_move">O Move</string>
+	<string name="empty"></string>
+	<string name="X">X</string>
+	<string name="O">O</string>
+	
+	<string name="makeMove">makeMove</string>
+
+
+</resources>
